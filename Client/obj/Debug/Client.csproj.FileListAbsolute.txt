@@ -1,0 +1,9 @@
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\obj\Debug\Client.Form1.resources
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\obj\Debug\Client.Properties.Resources.resources
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\bin\Debug\Client.exe.config
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\bin\Debug\Client.exe
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\bin\Debug\Client.pdb
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\bin\Debug\SimpleTCP.dll
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\obj\Debug\Client.exe
+C:\zMy Data\Local Disk D\CCN project\ChatApp\Client\obj\Debug\Client.pdb

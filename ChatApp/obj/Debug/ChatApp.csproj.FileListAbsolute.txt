@@ -1,0 +1,10 @@
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\bin\Debug\SimpleTCP.dll
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\zMy Data\Local Disk D\CCN project\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
